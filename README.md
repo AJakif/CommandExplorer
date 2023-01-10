@@ -12,7 +12,9 @@
 - Download Angular Cli `npm install -g @angular/cli`
 - For creating new project `ng new my-first-project`
 - Gor genarating new component `ng g c componentName`
+- Gor genarating new component in specific folder `ng g c componentName --folder route`
 - For Running server `ng serve`
 - For building project `ng build`
+- For genarating new project inside a project `ng generate application appName --routing`
 - For building project in development mode `ng build ProjecName --configuration development`
 - For building project in production mode `ng build ProjecName --configuration production`
